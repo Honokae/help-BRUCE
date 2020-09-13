@@ -3,4 +3,4 @@
 #include <time.h>
 
 int coinToss();
-int m
+int ma
