@@ -4,4 +4,4 @@
 
 int coinToss();
 int main() {
-    int f
+    int fl
