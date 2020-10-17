@@ -5,4 +5,4 @@
 int coinToss();
 int main() {
     int flips;
-    i
+    int 
