@@ -5,4 +5,4 @@
 int coinToss();
 int main() {
     int flips;
-    int headCounter =
+    int headCounter = 0
