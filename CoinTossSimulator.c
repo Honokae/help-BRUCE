@@ -6,3 +6,4 @@ int coinToss();
 int main() {
     int flips;
     int headCounter = 0;
+ 
