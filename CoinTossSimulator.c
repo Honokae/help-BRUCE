@@ -8,3 +8,4 @@ int main() {
     int headCounter = 0;
     int tailsCounter = 0;
 
+ 
