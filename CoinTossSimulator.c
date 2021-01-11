@@ -7,3 +7,4 @@ int main() {
     int flips;
     int headCounter = 0;
     int tailsCounter = 0;
+
