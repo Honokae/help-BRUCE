@@ -8,4 +8,4 @@ int main() {
     int headCounter = 0;
     int tailsCounter = 0;
 
-    printf("Welcome to C
+    printf("Welcome to Co
