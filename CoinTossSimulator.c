@@ -9,4 +9,4 @@ int main() {
     int tailsCounter = 0;
 
     printf("Welcome to Coin Flip Simulator!\n");
-    printf("Enter the amount of times you want to 
+    printf("Enter the amount of times you want to fl
