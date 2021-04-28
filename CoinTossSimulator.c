@@ -11,4 +11,4 @@ int main() {
     printf("Welcome to Coin Flip Simulator!\n");
     printf("Enter the amount of times you want to flip: ");
     scanf("%d",&flips);
-    srand
+    srand(t
