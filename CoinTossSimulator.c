@@ -12,4 +12,4 @@ int main() {
     printf("Enter the amount of times you want to flip: ");
     scanf("%d",&flips);
     srand(time(NULL));
-    for(
+    for(i
