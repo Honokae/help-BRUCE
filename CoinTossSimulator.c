@@ -13,4 +13,4 @@ int main() {
     scanf("%d",&flips);
     srand(time(NULL));
     for(int i=1;i<=flips;i++){
-        if(coinToss(
+        if(coinToss() 
