@@ -14,4 +14,4 @@ int main() {
     srand(time(NULL));
     for(int i=1;i<=flips;i++){
         if(coinToss() == 0)
-            
+            h
