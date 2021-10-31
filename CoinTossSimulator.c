@@ -15,4 +15,4 @@ int main() {
     for(int i=1;i<=flips;i++){
         if(coinToss() == 0)
             headCounter++;
-  
+   
