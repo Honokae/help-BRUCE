@@ -16,4 +16,4 @@ int main() {
         if(coinToss() == 0)
             headCounter++;
         else
-            tailsCou
+            tailsCoun
