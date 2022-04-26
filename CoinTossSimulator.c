@@ -17,4 +17,4 @@ int main() {
             headCounter++;
         else
             tailsCounter++;
-        if(i%10
+        if(i%10==
