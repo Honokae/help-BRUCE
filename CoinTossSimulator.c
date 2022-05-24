@@ -19,4 +19,4 @@ int main() {
             tailsCounter++;
         if(i%10==0)
             printf("\n");
-  
+   
