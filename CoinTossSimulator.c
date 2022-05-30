@@ -20,3 +20,4 @@ int main() {
         if(i%10==0)
             printf("\n");
     }
+
