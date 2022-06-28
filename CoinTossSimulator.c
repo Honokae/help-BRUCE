@@ -21,4 +21,4 @@ int main() {
             printf("\n");
     }
 
-    pr
+    prin
