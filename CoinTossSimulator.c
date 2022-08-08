@@ -21,4 +21,4 @@ int main() {
             printf("\n");
     }
 
-    printf("\nHeads was flip
+    printf("\nHeads was flipp
