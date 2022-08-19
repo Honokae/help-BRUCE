@@ -21,4 +21,4 @@ int main() {
             printf("\n");
     }
 
-    printf("\nHeads was flipped %d times \n",he
+    printf("\nHeads was flipped %d times \n",headCo
