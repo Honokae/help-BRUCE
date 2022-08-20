@@ -21,4 +21,4 @@ int main() {
             printf("\n");
     }
 
-    printf("\nHeads was flipped %d times \n",headCount
+    printf("\nHeads was flipped %d times \n",headCounte
