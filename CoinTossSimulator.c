@@ -22,4 +22,4 @@ int main() {
     }
 
     printf("\nHeads was flipped %d times \n",headCounter);
-  
+    
