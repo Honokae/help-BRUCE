@@ -22,4 +22,4 @@ int main() {
     }
 
     printf("\nHeads was flipped %d times \n",headCounter);
-    printf("Tails was flipped %d times",tailsCou
+    printf("Tails was flipped %d times",tailsCount
