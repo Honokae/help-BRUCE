@@ -24,3 +24,4 @@ int main() {
     printf("\nHeads was flipped %d times \n",headCounter);
     printf("Tails was flipped %d times",tailsCounter);
     return 0;
+}
