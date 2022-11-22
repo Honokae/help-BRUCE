@@ -25,3 +25,4 @@ int main() {
     printf("Tails was flipped %d times",tailsCounter);
     return 0;
 }
+
