@@ -26,4 +26,4 @@ int main() {
     return 0;
 }
 
-int coinToss(
+int coinToss() 
