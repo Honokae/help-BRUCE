@@ -27,4 +27,4 @@ int main() {
 }
 
 int coinToss() {
-    i
+    if(
