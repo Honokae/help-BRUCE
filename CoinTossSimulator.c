@@ -27,4 +27,4 @@ int main() {
 }
 
 int coinToss() {
-    if(rand()
+    if(rand()%2 
