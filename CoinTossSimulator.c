@@ -30,4 +30,4 @@ int coinToss() {
     if(rand()%2 == 0){
         printf("H ");
         return 0;
-    
+    }
