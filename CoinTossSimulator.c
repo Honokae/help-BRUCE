@@ -31,4 +31,4 @@ int coinToss() {
         printf("H ");
         return 0;
     }
-  
+   
