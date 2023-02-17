@@ -32,4 +32,4 @@ int coinToss() {
         return 0;
     }
     else {
-        pr
+        prin
