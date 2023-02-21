@@ -33,3 +33,4 @@ int coinToss() {
     }
     else {
         printf("T ");
+  
