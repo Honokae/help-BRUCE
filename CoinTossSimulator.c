@@ -35,3 +35,4 @@ int coinToss() {
         printf("T ");
         return 1;
     }
+}
