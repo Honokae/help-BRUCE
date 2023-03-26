@@ -1,1 +1,1 @@
-# Coin Tos
+# Coin Toss
