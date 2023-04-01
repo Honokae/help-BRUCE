@@ -1,1 +1,1 @@
-# Coin Toss Simulato
+# Coin Toss Simulator
